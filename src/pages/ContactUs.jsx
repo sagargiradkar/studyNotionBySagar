@@ -13,7 +13,7 @@ const ContactUs = () => {
                     <h1 className="text-lg font-semibold text-richblack-5">Chat on us</h1>
                     </div>
                     <p className='font-medium'>Our friendly team is here to help.</p>
-                    <p className='font-semibold'>info@studynotion.com</p>
+                    <p className='font-semibold'>spgiradkar1974@gmail.com</p>
                 </div>
                 <div className="flex flex-col gap-[2px] p-3 text-sm text-richblack-200">
                     <div className='flex flex-row items-center gap-3'>
@@ -21,7 +21,7 @@ const ContactUs = () => {
                     <h1 className="text-lg font-semibold text-richblack-5">Visit us</h1>
                     </div>
                     <p className='font-medium'>Come and say hello at our office HQ.</p>
-                    <p className='font-semibold'>Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016</p>
+                    <p className='font-semibold'>Near PVG's COET , Parvati Paytha , Pune - 411009</p>
                 </div>
                 <div className="flex flex-col gap-[2px] p-3 text-sm text-richblack-200">
                     <div className='flex flex-row items-center gap-3'>
@@ -29,7 +29,7 @@ const ContactUs = () => {
                     <h1 className="text-lg font-semibold text-richblack-5">Call us</h1>
                 </div>
                 <p className='font-medium'>Mon - Fri From 8am to 5pm</p>
-                <p className='font-semibold'>+91 6366 000 666</p>
+                <p className='font-semibold'>+91 9168801192</p>
                 </div>
             </div>
         </div>
